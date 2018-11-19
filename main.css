@@ -1,0 +1,9 @@
+#game_canvas {
+    background: #515151;
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+#score {
+    font-weight: bold;
+}
